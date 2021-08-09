@@ -26,5 +26,9 @@
   },
   "devDependencies": {
     "local-web-server": "^3.0.7"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
   }
 }
